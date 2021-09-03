@@ -13,4 +13,5 @@ En este repositorio se plantea la realización de una clasificación de imágene
 
 
 ## Referencia
-- [Ringa Tech] (https://www.youtube.com/channel/UCm9QZ70KuIVShztZ7HmE4NQ)
+- [Ringa Tech](https://www.youtube.com/channel/UCm9QZ70KuIVShztZ7HmE4NQ)
+
